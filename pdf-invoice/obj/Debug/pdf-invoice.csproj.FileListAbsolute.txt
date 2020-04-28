@@ -1,0 +1,8 @@
+C:\Users\tutoriels\Desktop\Nouveau dossier\pdf-invoice\pdf-invoice\bin\pdf-invoice.dll.config
+C:\Users\tutoriels\Desktop\Nouveau dossier\pdf-invoice\pdf-invoice\bin\pdf-invoice.dll
+C:\Users\tutoriels\Desktop\Nouveau dossier\pdf-invoice\pdf-invoice\bin\pdf-invoice.pdb
+C:\Users\tutoriels\Desktop\Nouveau dossier\pdf-invoice\pdf-invoice\obj\Debug\pdf-invoice.csprojResolveAssemblyReference.cache
+C:\Users\tutoriels\Desktop\Nouveau dossier\pdf-invoice\pdf-invoice\obj\Debug\pdf-invoice.dll
+C:\Users\tutoriels\Desktop\Nouveau dossier\pdf-invoice\pdf-invoice\obj\Debug\pdf-invoice.pdb
+C:\Users\tutoriels\Desktop\Nouveau dossier\pdf-invoice\pdf-invoice\bin\itextsharp.dll
+C:\Users\tutoriels\Desktop\Nouveau dossier\pdf-invoice\pdf-invoice\bin\itextsharp.xml
